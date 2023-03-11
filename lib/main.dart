@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'giris.dart';
 import 'Page1.dart';
 import 'CoffePage.dart';
+import 'SizePage.dart';
 
 void main() {
   runApp(kahveci());
